@@ -1,3 +1,4 @@
+// penandaa buat perubahan
 //alert('test');
 //for dan array tidak boleh dibuat variabel
 
